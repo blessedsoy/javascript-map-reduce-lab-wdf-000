@@ -9031,4 +9031,3 @@ const table = document.getElementById('results');
   .join('');
 
 
-  
